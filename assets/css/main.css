@@ -3419,3 +3419,10 @@
 			}
 
 	}
+ #two .container {
+	 text-align: left;
+ }
+
+#two .container p {
+	margin-bottom: 20px;
+}
